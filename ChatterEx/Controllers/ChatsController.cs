@@ -123,5 +123,10 @@ namespace ChatterEx.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public static void test()
+        {
+            //test
+        }
     }
 }
